@@ -1,5 +1,1 @@
 - 👋 Hi, I’m Coda
-- 👀 I’m interested in python
-- 🌱 I’m currently learning a byte of python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me GitHub!
